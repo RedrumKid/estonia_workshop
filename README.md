@@ -4,4 +4,4 @@ The important thing is that ElectroKitty is installed:
 
 `pip install electrokitty`
 
-First bear on me in Estonia
+First beer on me in Estonia
